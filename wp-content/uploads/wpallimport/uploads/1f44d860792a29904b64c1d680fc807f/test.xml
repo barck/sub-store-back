@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<post_id><![CDATA[4]]></post_id>
+		<post_title><![CDATA[Математика. Оқулық.  2-бөлім]]></post_title>
+		<post_subject><![CDATA[Математика]]></post_subject>
+		<post_authors><![CDATA[Автор id4]]></post_authors>
+		<post_publisher><![CDATA[«Назарбаев зияткерлік мектептері» ДББҰ]]></post_publisher>
+		<post_year><![CDATA[2007]]></post_year>
+		<post_lang><![CDATA[Казахский]]></post_lang>
+		<post_pdf><![CDATA[/wp-content/books/4/4.pdf]]></post_pdf>
+		<post_epub><![CDATA[/wp-content/books/4/4.epub]]></post_epub>
+	</node>
+	<node>
+		<post_id><![CDATA[59]]></post_id>
+		<post_title><![CDATA[Дүниетану. Оқулық]]></post_title>
+		<post_subject><![CDATA[Познание мира]]></post_subject>
+		<post_authors><![CDATA[Автор id59]]></post_authors>
+		<post_publisher><![CDATA[Атамұра]]></post_publisher>
+		<post_year><![CDATA[2008]]></post_year>
+		<post_lang><![CDATA[Казахский]]></post_lang>
+		<post_pdf><![CDATA[/wp-content/books/59/59.pdf]]></post_pdf>
+		<post_epub><![CDATA[/wp-content/books/59/59.epub]]></post_epub>
+	</node>
+	<node>
+		<post_id><![CDATA[111]]></post_id>
+		<post_title><![CDATA[История современной культуры]]></post_title>
+		<post_subject><![CDATA[История]]></post_subject>
+		<post_authors><![CDATA[Автор id111]]></post_authors>
+		<post_publisher><![CDATA[«Бөбек»]]></post_publisher>
+		<post_year><![CDATA[2009]]></post_year>
+		<post_lang><![CDATA[Казахский и русский]]></post_lang>
+		<post_pdf><![CDATA[/wp-content/books/111/111.pdf]]></post_pdf>
+		<post_epub><![CDATA[/wp-content/books/111/111.epub]]></post_epub>
+	</node>
+	<node>
+		<post_id><![CDATA[198]]></post_id>
+		<post_title><![CDATA[Қазақ тілі мен әдебиеті: Бәйшешек. Оқулық. 1-бөлім + CD]]></post_title>
+		<post_subject><![CDATA[Қазақ тілі]]></post_subject>
+		<post_authors><![CDATA[Автор id198]]></post_authors>
+		<post_publisher><![CDATA[Көкжиек-Горизонт]]></post_publisher>
+		<post_year><![CDATA[2010]]></post_year>
+		<post_lang><![CDATA[Русский]]></post_lang>
+		<post_pdf><![CDATA[/wp-content/books/198/198.pdf]]></post_pdf>
+		<post_epub><![CDATA[/wp-content/books/198/198.epub]]></post_epub>
+	</node>
+	<node>
+		<post_id><![CDATA[335]]></post_id>
+		<post_title><![CDATA[Алгебра.Учебник]]></post_title>
+		<post_subject><![CDATA[Алгебра]]></post_subject>
+		<post_authors><![CDATA[Автор id335]]></post_authors>
+		<post_publisher><![CDATA[Атамұра]]></post_publisher>
+		<post_year><![CDATA[2011]]></post_year>
+		<post_lang><![CDATA[Русский]]></post_lang>
+		<post_pdf><![CDATA[/wp-content/books/335/335.pdf]]></post_pdf>
+		<post_epub><![CDATA[/wp-content/books/335/335.epub]]></post_epub>
+	</node>
+</data>
